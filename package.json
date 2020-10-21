@@ -4,8 +4,7 @@
   "description": "Real time chatting",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
